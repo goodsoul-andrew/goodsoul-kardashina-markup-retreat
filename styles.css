@@ -1,1 +1,10 @@
-/* Пиши стили тут */
+.star-container {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.star {
+  width: 50px;
+  height: 50px;
+}
